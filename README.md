@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @GeekyMatrix
-- 👀 I’m interested in ...Coding,Hacking
-- 🌱 I’m currently learning ...DSA
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...instagram-rohitkumargupta_
+👋 Hi, I’m Rohit Kumar Gupta
 
-<!---
-GeekyMatrix/GeekyMatrix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Passionate Software Developer with a keen interest in building scalable and efficient applications.
+🚀 Experienced in developing dynamic, user-friendly, and high-performance web applications.
+🔍 Always curious to learn new technologies, explore innovative solutions, and contribute to impactful projects.
+🌱 Continuously improving problem-solving skills through Data Structures & Algorithms.
+🤝 Open to collaborating on exciting projects that make a real-world impact.
